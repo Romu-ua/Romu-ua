@@ -8,4 +8,5 @@
 https://adcopy-arena.onrender.com/submit/
 
 udemy   
-超TypeScript 完全ガイド 2025
+超TypeScript 完全ガイド 2025  
+作業ディレクトリ : https://github.com/Romu-ua/javascript-intro  
