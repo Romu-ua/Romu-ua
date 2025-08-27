@@ -2,7 +2,7 @@
 
 
 
-// TODO 以前の軌跡をまとめておく
+// TODO 以前の軌跡をまとめておく  
 2025年
 作成したサイト   
 https://adcopy-arena.onrender.com/submit/
