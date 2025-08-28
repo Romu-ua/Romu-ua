@@ -17,3 +17,10 @@ https://adcopy-arena.onrender.com/submit/
 JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入門 2025年最新版    
 作業ディレクトリ：
 - https://github.com/Romu-ua/typescript-intro.git
+
+
+
+[42]   
+普通のlinuxプログラミング第２版   
+作業ディレクトリ：
+- https://github.com/Romu-ua/linux-programming-2nd-edition.git
