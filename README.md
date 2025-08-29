@@ -21,6 +21,13 @@ JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入
 
 
 [42]   
+**minishell**  
+作業ディレクトリ：
+- https://github.com/Romu-ua/minishell.git
+
+
+参考文献：  
 普通のlinuxプログラミング第２版   
 作業ディレクトリ：
 - https://github.com/Romu-ua/linux-programming-2nd-edition.git
+
