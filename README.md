@@ -2,32 +2,7 @@
 
 
 
-// TODO 以前の軌跡をまとめておく    
 
-   
-2025年
-作成したサイト   
-https://adcopy-arena.onrender.com/submit/
-
-[udemy]   
-超TypeScript 完全ガイド 2025     
-作業ディレクトリ : 
-- https://github.com/Romu-ua/javascript-intro  
-
-JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入門 2025年最新版    
-作業ディレクトリ：
-- https://github.com/Romu-ua/typescript-intro.git
-
-
-
-[42]   
-**minishell**  
-作業ディレクトリ：
-- https://github.com/Romu-ua/minishell.git
-
-
-参考文献：  
-普通のlinuxプログラミング第２版   
-作業ディレクトリ：
-- https://github.com/Romu-ua/linux-programming-2nd-edition.git
-
+// TODO 2025年7月以前の軌跡をまとめておく    
+## 学習の軌跡
+詳しい記録は [progress.md](./progress.md) を参照してください。
