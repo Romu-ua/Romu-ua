@@ -4,7 +4,7 @@
 作成したサイト   
 https://adcopy-arena.onrender.com/submit/
 
-[udemy]   
+**[udemy]**   
 超TypeScript 完全ガイド 2025     
 リポジトリ: 
 - https://github.com/Romu-ua/javascript-intro  
@@ -15,7 +15,7 @@ JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入
 
 
 
-[42]   
+**[42]**   
 **minishell**  
 リポジトリ：
 - https://github.com/Romu-ua/minishell.git
@@ -27,7 +27,7 @@ JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入
 - https://github.com/Romu-ua/linux-programming-2nd-edition.git
 
 
-[書籍]    
+**[書籍]**    
 改訂新版 これからはじめるReact実践入門
 リポジトリ：
 - https://github.com/Romu-ua/react-practical-intro
