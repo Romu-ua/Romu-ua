@@ -32,3 +32,6 @@ JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入
 リポジトリ：
 - https://github.com/Romu-ua/react-practical-intro
 
+javascript本格入門
+リポジトリ：
+- https://github.com/Romu-ua/javascript-intro
