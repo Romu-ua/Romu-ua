@@ -5,7 +5,7 @@
 https://adcopy-arena.onrender.com/submit/
 
 **[udemy]**   
-超TypeScript 完全ガイド 2025     
+超JypeScript 完全ガイド 2025     
 リポジトリ: 
 - https://github.com/Romu-ua/javascript-intro  
 
@@ -31,6 +31,10 @@ JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入
 改訂新版 これからはじめるReact実践入門
 リポジトリ：
 - https://github.com/Romu-ua/react-practical-intro
+
+プログラミング typescript
+リポジトリ：
+- https://github.com/Romu-ua/typescript-intro.git
 
 javascript本格入門
 リポジトリ：
