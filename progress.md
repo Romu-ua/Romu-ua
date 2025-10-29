@@ -34,7 +34,7 @@ JavaScriptエンジニアのためのハンズオンで学ぶTypeScript徹底入
 
 プログラミング typescript
 リポジトリ：
-- https://github.com/Romu-ua/typescript-intro.git
+- https://github.com/Romu-ua/programming-typescript.git
 
 javascript本格入門
 リポジトリ：
